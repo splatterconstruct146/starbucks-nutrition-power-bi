@@ -36,7 +36,7 @@ The screenshot below shows the steps and shape of the table for the radar chart.
 Image 3: The right side of the screenshot shows how the shape of the table was changed. The contents are still the same.
 
 ### 3. Creating the Visuals
-This step was fairly straightforward. Just apply the visuals that is best for representing the info in the data table. \
+This step was fairly straightforward. Just apply the visuals that is best for representing the info in the data table.
 
 ### 4. Applying a Visual Theme
 Opted for something more aligned to the Starbucks branding. Thought it would be a good opportunity to practice some design skills as well.
