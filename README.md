@@ -5,7 +5,7 @@ Public Power BI Report Link: [here](https://www.novypro.com/project/most-nutriti
 ## Motivation
 After seeing some submissions done by LinkedIn connections (on Linkedin obviously), I decided to try implementing my own report while improving some of the ideas that were done by others.\
 Decided to create the report following the competition rules and constraints as well.\
-All info regarding the competition rules and details can be found here: 
+All info regarding the competition rules and details can be found here: [https://pomerolpartners.com/dataset_challenge/january-2023/](https://pomerolpartners.com/dataset_challenge/january-2023/)
 
 ## Shortcomings
 The unfortunate reality of having a one page constraint is that a lot of info had to be trimmed out.\
